@@ -1,0 +1,16 @@
+{
+  "name": "qa-forum-api",
+  "version": "1.0.0",
+  "description": "qa forum api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "closed",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2"
+  }
+}
